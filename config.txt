@@ -1,1 +1,8 @@
+serverBaseUrl=https://zaijan.store/IshiLib/
 
+gameActivity=com.tencent.tmgp.cod.CODMainActivity
+
+appTitle=ISHIKAWA MOD
+
+game1=FREE|libfreemod.so|FREE Users
+game2=VIP|libarm64-v8a.so|VIP Users
