@@ -4,6 +4,6 @@ gameActivity=com.tencent.tmgp.cod.CODMainActivity
 
 appTitle=ISHIKAWADESU CODM
 
-game1=FREE|libfreemod.so|FREE Users. Go to my telegram ch to get the free key.
-game2=VIP|libarm64-v8a.so|VIP Users. You can only login with using a VIP KEY.
-game1=BETA|libXshoterFyg.so|BETA Users. Can cause 10y ban, use at your one risk
+game1=FREE VER|libfreemod.so|FREE Users. Go to my telegram ch to get the free key.
+game2=VIP VER|libarm64-v8a.so|VIP Users. You can only login with using a VIP KEY.
+game1=BETA VER|libXshoterFyg.so|BETA Users. Can cause 10y ban, use at your one risk
