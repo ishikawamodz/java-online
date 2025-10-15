@@ -8,6 +8,6 @@ game1=V1 FREE VERSION|libfreemod.so|FREE Mod With Skinhack. Go to my telegram ch
 
 game2=V2 FREE VERSION|libfreemod2.so|FREE Mod Without Skinhack. Go to my telegram channel to get the free key.
 
-game3=VIP VER|libarm64-v8a.so|VIP Users. You can only login with using a VIP KEY.
+game3=VIP VERSION|libarm64-v8a.so|VIP Users. You can only login with using a VIP KEY.
 
-game4=BETA VER|libXshoterFyg.so|BETA Users. Can cause 10y ban, use at your one risk
+game4=BETA VERSION|libXshoterFyg.so|BETA Users. Can cause 10y ban, use at your one risk
