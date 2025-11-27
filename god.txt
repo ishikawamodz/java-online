@@ -4,9 +4,7 @@ gameActivity=com.tencent.tmgp.cod.CODMainActivity
 
 appTitle=ISHIKAWADESU CODM
 
-game1=V1 FREE VERSION|libfreemod.so|FREE Mod With Skinhack. Go to @ishikawach telegram channel to get the free key.
-
-game2=V2 FREE VERSION|libfreemod2.so|FREE Mod With Skinhack. Go to @ishikawach telegram channel to get the free key.
+game1=FREE VERSION|libfreemod2.so|FREE Mod With Skinhack. Go to @ishikawach telegram channel to get the free key.
 
 game3=BETA VERSION|libXshoterFyg.so|BETA Users. Can cause 10y ban, use at your one risk
 
